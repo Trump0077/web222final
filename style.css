@@ -151,7 +151,7 @@ h1 {
 #contactMe {
     padding: 2% ;
     margin: 5%;
-    background-color: rgb(81, 185, 98);
+    background-color: rgb(145,184,33);
     border-radius: 100px;
 }
 
@@ -168,7 +168,7 @@ h1 {
     padding: 3% 5% 2% 5%;
     flex: 1;
     height: 200px;
-    background-color: rgb(226, 131, 6);
+    background-color: rgb(242,200,103);
     border-radius: 50px;
 }
 
@@ -176,7 +176,7 @@ h1 {
     padding: 2% 5% 3% 5%;
     flex: 1;
     height: 200px;
-    background-color: rgb(193, 226, 6);
+    background-color: rgb(48,174,207);
     border-radius: 50px;
 } 
 
